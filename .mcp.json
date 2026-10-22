@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gib-ozelge": {
+      "command": "/bin/sh",
+      "args": [
+        "/Users/gorkemparadise/Desktop/gib-mcp/scripts/serve.sh"
+      ]
+    }
+  }
+}
